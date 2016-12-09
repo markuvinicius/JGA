@@ -13,6 +13,7 @@ import java.util.ArrayList;
 /**
  *
  * @author Marku
+ * @name classe responsável por gerar estatísticas do algoritmo genetico
  */
 public class EstatisticaGA {
     private ArrayList<Ponto> pontos;   
