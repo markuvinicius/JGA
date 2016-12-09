@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/functions/UnimodalF2.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/functions/Rastrigin.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/model/CromossomoReal.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/operadores/CrossOverUmPontoBinario.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/model/CromossomoBinario.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/functions/UnimodalF1.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/utils/EstatisticaGA.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/view/Main.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/model/AmbienteReal.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/model/CromossomoAbstrato.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/operadores/CrossOverUmPontoReal.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/operadores/CrossOverDoisPontosReal.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/log4j.properties</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/functions/Funcao.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/factory/FuncaoFactory.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/operadores/CrossOverDoisPontosBinario.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/functions/MultiModal.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/model/Ambiente.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/operadores/MutacaoRealSimples.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/operadores/MutacaoSimples.java</file>
+            <file>file:/Users/Marku/NetBeansProjects/JGA/src/com/marku/jga/graphicUtils/ScatterGraphicHelper.java</file>
+        </group>
+    </open-files>
+</project-private>
